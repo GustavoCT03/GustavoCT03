@@ -1,16 +1,53 @@
-## Hi there 👋
+# Gustavo Contreras
 
-<!--
-**GustavoCT03/GustavoCT03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último año, actualmente trabajando en dos proyectos personales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  AeroCargo Sentinel AI
+
+AeroCargo Sentinel AI es un proyecto experimental de Inteligencia Artificial orientado al apoyo en la inspección de contenedores marítimos mediante Visión Computacional y Deep Learning.
+
+El sistema analiza imágenes de techos de contenedores y busca clasificarlos según distintas condiciones estructurales, como:
+
+- Contenedor intacto
+- Corrosión leve
+- Daño estructural crítico
+
+El proyecto también explora el uso de distintas arquitecturas de Deep Learning, modelos Ensemble, estimación de incertidumbre, Explainable AI y apoyo a decisiones mediante Human-in-the-Loop.
+
+Actualmente se está ampliando hacia una plataforma web que integrará inferencia con modelos de IA, análisis operacional, generación automática de reportes y futuras capacidades multimodales.
+
+🔗 **Demo en vivo:**  
+https://aerocargo-sentinel-ai.vercel.app
+
+---
+
+##  SYSTEM ECHO
+
+SYSTEM ECHO es una experiencia web experimental de terror psicológico e interacción narrativa.
+
+El proyecto combina video, sonido, distorsiones visuales y eventos ocultos para crear una experiencia que cambia progresivamente mientras el usuario permanece dentro del sitio.
+
+Actualmente incorpora:
+
+- Glitches visuales dinámicos
+- Múltiples señales de video
+- Apariciones procedurales de imágenes
+- Audio reactivo
+- Interacciones ocultas
+- Deterioro progresivo de la interfaz
+- Memoria entre visitas mediante el navegador
+- Eventos secretos
+- Distintas rutas y finales
+
+La idea es experimentar con narrativa no lineal y generar la sensación de que la propia página reacciona a quien la está utilizando.
+
+ **Experiencia en vivo:**  
+https://system-echo.vercel.app
+
+> Se recomienda utilizar sonido y audífonos.
+
+---
+
+Ambos proyectos se encuentran actualmente en desarrollo.
